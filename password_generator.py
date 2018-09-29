@@ -1,4 +1,4 @@
-# created by ob_liv_ous
+# created by aniket0511
 #a random password generator
 import random
 l=[] #empty list
